@@ -1,0 +1,17 @@
+C:\Users\DarkI\Desktop\Windows10\Projects\FootBallPWA\FootBallPWA\FootBallPWA\bin\Debug\ReverseMap\resources.pri
+C:\Users\DarkI\Desktop\Windows10\Projects\FootBallPWA\FootBallPWA\FootBallPWA\bin\Debug\AppxManifest.xml
+C:\Users\DarkI\Desktop\Windows10\Projects\FootBallPWA\FootBallPWA\FootBallPWA\bin\Debug\FootBallPWA.build.appxrecipe
+C:\Users\DarkI\Desktop\Windows10\Projects\FootBallPWA\FootBallPWA\FootBallPWA\bld\Debug\FootBallPWA.jsproj.CoreCompileInputs.cache
+C:\Users\DarkI\Desktop\Windows10\Projects\FootBallPWA\FootBallPWA\FootBallPWA\bld\Debug\ResourceHandlingTask.state
+C:\Users\DarkI\Desktop\Windows10\Projects\FootBallPWA\FootBallPWA\FootBallPWA\bld\Debug\priconfig.xml
+C:\Users\DarkI\Desktop\Windows10\Projects\FootBallPWA\FootBallPWA\FootBallPWA\bld\Debug\priconfig.xml.intermediate
+C:\Users\DarkI\Desktop\Windows10\Projects\FootBallPWA\FootBallPWA\FootBallPWA\bld\Debug\layout.resfiles
+C:\Users\DarkI\Desktop\Windows10\Projects\FootBallPWA\FootBallPWA\FootBallPWA\bld\Debug\layout.resfiles.intermediate
+C:\Users\DarkI\Desktop\Windows10\Projects\FootBallPWA\FootBallPWA\FootBallPWA\bld\Debug\resources.resfiles
+C:\Users\DarkI\Desktop\Windows10\Projects\FootBallPWA\FootBallPWA\FootBallPWA\bld\Debug\resources.resfiles.intermediate
+C:\Users\DarkI\Desktop\Windows10\Projects\FootBallPWA\FootBallPWA\FootBallPWA\bld\Debug\pri.resfiles
+C:\Users\DarkI\Desktop\Windows10\Projects\FootBallPWA\FootBallPWA\FootBallPWA\bld\Debug\pri.resfiles.intermediate
+C:\Users\DarkI\Desktop\Windows10\Projects\FootBallPWA\FootBallPWA\FootBallPWA\bld\Debug\qualifiers.txt
+C:\Users\DarkI\Desktop\Windows10\Projects\FootBallPWA\FootBallPWA\FootBallPWA\bld\Debug\qualifiers.txt.intermediate
+C:\Users\DarkI\Desktop\Windows10\Projects\FootBallPWA\FootBallPWA\FootBallPWA\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\DarkI\Desktop\Windows10\Projects\FootBallPWA\FootBallPWA\FootBallPWA\bld\Debug\ProjectArchitectures.txt
